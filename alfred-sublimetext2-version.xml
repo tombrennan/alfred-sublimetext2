@@ -1,6 +1,6 @@
 <?xml version=”1.0” encoding=”ISO-8859-1”?>
 <update>
 	<version>1.0.1</version>
-	<url>https://github.com/tombrennan/alfred-sublimetext2/raw/master/alfred-sublimetext2.alfredextension</url>
+	<url>https://raw.github.com/tombrennan/alfred-sublimetext2/master/alfred-sublimetext2.alfredextension</url>
 	<comments>Initial Version</comments>
 </update>
